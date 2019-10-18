@@ -1,0 +1,8 @@
+﻿  Accounting.cpp
+c:\users\john\documents\visual studio 2015\projects\csradonationsaccountingprogram\csradonationsaccountingprogram\accounting.cpp(259): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\documents\visual studio 2015\projects\csradonationsaccountingprogram\csradonationsaccountingprogram\accounting.cpp(280): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\documents\visual studio 2015\projects\csradonationsaccountingprogram\csradonationsaccountingprogram\accounting.cpp(301): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\documents\visual studio 2015\projects\csradonationsaccountingprogram\csradonationsaccountingprogram\accounting.cpp(322): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\documents\visual studio 2015\projects\csradonationsaccountingprogram\csradonationsaccountingprogram\accounting.cpp(341): warning C4018: '<': signed/unsigned mismatch
+Accounting.obj : error LNK2019: unresolved external symbol "int __cdecl search(class std::vector<class Accounting,class std::allocator<class Accounting> >,int)" (?search@@YAHV?$vector@VAccounting@@V?$allocator@VAccounting@@@std@@@std@@H@Z) referenced in function _main
+C:\Users\John\Documents\Visual Studio 2015\Projects\CSRADonationsAccountingProgram\Debug\CSRADonationsAccountingProgram.exe : fatal error LNK1120: 1 unresolved externals
